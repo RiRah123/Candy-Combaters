@@ -31,5 +31,5 @@ Further improvements we could add to the game include:
 - [Amanda Cowan (Character Animator)](https://github.com/amandac231)
 - [Lauren Carlin (Sprite & Scenery Designer)](https://github.com/laurenc8121)
 - [Rian Rahman (Game Developer & Sound Technician)](https://github.com/laurenc8121)
-- [Sarah Miller (Game Developer & Sound Technician)](https://github.com/hmillersarah)
+- [Sarah Miller (Game Developer)](https://github.com/hmillersarah)
 - [Siwoo Kim (Project Presenter)](https://github.com/chouxkim)

@@ -5,7 +5,7 @@
 
 ## What is Candy Combaters?
 <p align="center">
-  <img src="./candy-combaters.gif" width="1000" height="450">
+  <img src="./img/candy-combaters.gif" width="1000" height="450">
 </p>
 Candy Combaters is a two-player candy-themed game where each player controls their character using the keyboard and fights their opponent in a brawl to the death. The game features custom characters, scenery design, and sprite animation that is relevant to the candy theme and street fighter genre.
 
